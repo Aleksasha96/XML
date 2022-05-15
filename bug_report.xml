@@ -1,1 +1,14 @@
-
+  <Bug Title>"Application crash on clicking the SAVE button"</Bug Title>
+  <Bug ID>"14865"</Bug ID>
+  <Build Number>"Version Number 5.0.1"</Build Number>
+  <Environment>"Windows 10, Chrome"</Environment>
+  <Severity>"High or 1"</Severity>
+  <Priority>"High or 1"</Priority>
+  <Assigned to>"Developer-X"</Assigned to>
+  <Reported by>"Alexandra"</Reported by>
+  <Type>"Bug"</Type>
+  <Status>"New"</Status>
+  <Description>"Application crash on clicking the SAVE button while creating a new user"</Description>
+  <Steps to reproduce>"1 2 3 4 5"</Steps to reproduce>
+  <Expected result>"On clicking SAVE button, should be promted to a success massage 'New User has been created successfully'"</Expected result>
+  <Actual Result>"Application crash on clicking the SAVE button"</Actual Result>
