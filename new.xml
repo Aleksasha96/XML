@@ -1,4 +1,6 @@
- <name>:"Aleksandra"</name>
-        <age>:"26"</age>
-        <pets>:"two cats"</pets>
-        <future_salary>:"3000$"</future_salary>
+<new> 
+        <name>Aleksandra</name>
+        <age>26</age>
+        <pets>two cats</pets>
+        <future_salary>3000$</future_salary>
+</new>
